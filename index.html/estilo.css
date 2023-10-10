@@ -1,0 +1,14 @@
+/* ejemplo de estilos por etiquetas */ 
+body {
+    background-color: aquamarine;
+    border: 5px dotted black;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+/*ejemplo de estilos por clases (recordar llamarlo en el archivo html) */
+.textoCentrado {
+    text-align: center;
+}
